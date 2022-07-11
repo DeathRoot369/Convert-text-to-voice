@@ -9,6 +9,6 @@ How to Use :
 
 3. python3 CTV.py
 
-now enter you text
+now enter your text
 and
 saving voice (CTV.py)
