@@ -2,7 +2,6 @@ import pyttsx3
 import os
 
 engine = pyttsx3.init()
-
 os.system('clear')
 
 print("Enter your Text")
