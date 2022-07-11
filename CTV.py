@@ -6,8 +6,8 @@ os.system('clear')
 
 print("Enter your Text")
 answer = input(">>> ")
-
 engine.setProperty("rate", 120)
 engine.say(answer)
-engine.save_to_file(answer, "CTV.mp3")
+
+engine.save_to_file(answer, "Converted.mp3")
 engine.runAndWait()
