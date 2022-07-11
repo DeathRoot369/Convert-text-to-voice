@@ -7,6 +7,8 @@ How to Use :
 
 2. ./install.sh or bash install.sh
 
-3. import your text for convert to voice
+3. python3 CTV.py
 
-now saving voice (CTV.py)
+now inter you text
+and
+saving voice (CTV.py)
