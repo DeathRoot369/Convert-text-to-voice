@@ -3,9 +3,6 @@
 clear
 
 echo "Please enter Password"
-sudo su
-
-clear
 
 sudo apt update
 sleep1
